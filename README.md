@@ -4,8 +4,8 @@
 
 ### Upcoming
 
-**[Speaker: From Chaos to Harmony, Transforming ML Engineering: A Kubernetes Adoption Journey - Paris Nakita Kejser, JP Politikens Hus](https://sched.co/1i7oM)**
-_CloudNativeCon+KubeCon, North America 2024, Salt Lake City_
+**[Speaker: From Chaos to Harmony, Transforming ML Engineering: A Kubernetes Adoption Journey](https://sched.co/1i7oM)**<br />
+_CloudNativeCon+KubeCon, North America 2024, Salt Lake City_<br />
 Date: November 14, 2024
 
 <!--
