@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Paris Nakita Kejser 👋
+
+## Speaking Activities
+
+### Upcoming
+
+**[Speaker: From Chaos to Harmony, Transforming ML Engineering: A Kubernetes Adoption Journey - Paris Nakita Kejser, JP Politikens Hus](https://sched.co/1i7oM)**
+_CloudNativeCon+KubeCon, North America 2024, Salt Lake City_
+Date: November 14, 2024
 
 <!--
 **parisnakitakejser/parisnakitakejser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
