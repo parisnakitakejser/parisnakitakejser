@@ -8,6 +8,15 @@
 _CloudNativeCon+KubeCon, North America 2024, Salt Lake City_<br />
 Date: November 14, 2024
 
+## Certification Activities
+
+![](images/cncf-KCNA.png)
+![](images/cncf-CKAD.png)
+![](images/cncf-CKA.png)
+![](images/aws-CLF-C01.png)
+![](images/aws-DVA-C01.png)
+![](images/aws-SAA-C02.png)
+
 <!--
 **parisnakitakejser/parisnakitakejser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
