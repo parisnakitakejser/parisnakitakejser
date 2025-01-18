@@ -17,6 +17,7 @@ Date: November 14, 2024<br />
 ![](images/cncf-KCNA.png)
 ![](images/cncf-CKAD.png)
 ![](images/cncf-CKA.png)
+![](images/cncf-CGOA.png)
 ![](images/aws-CLF-C01.png)
 ![](images/aws-DVA-C01.png)
 ![](images/aws-SAA-C02.png)
