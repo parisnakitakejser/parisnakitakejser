@@ -3,7 +3,11 @@
 ## Speaking Activities
 
 ### Upcoming
-No plans yet :)
+
+**[Speaker: The Cloud Is Lying To You: What It Really Takes To Run On-Prem](https://sched.co/27FXa)**<br />
+_KubeCon + CloudNativeCon North America 2025_<br />
+Date: November 11, 2025<br />
+
 
 ### Past
 
