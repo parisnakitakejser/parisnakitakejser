@@ -22,3 +22,10 @@ Date: November 14, 2024<br />
 ![](images/cncf-CKAD.png)
 ![](images/cncf-CKA.png)
 ![](images/cncf-CGOA.png)
+
+### 🌍 CNCF Contributor Card
+<p align="center">
+  <a href="https://contribcard.cncf.io/parisnakitakejser">
+    <img src="https://contribcard.cncf.io/api/card/parisnakitakejser/image" alt="CNCF Contributor Card" />
+  </a>
+</p>
