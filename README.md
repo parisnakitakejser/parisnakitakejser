@@ -1,5 +1,7 @@
 # Hi there, I'm Paris Nakita Kejser 👋
 
+[![CNCF Contributor Card](https://img.shields.io/badge/CNCF%20Contributor%20Card-Paris%20Nakita%20Kejser-blue?logo=linuxfoundation&style=for-the-badge)](https://contribcard.cncf.io/parisnakitakejser)
+
 ## Speaking Activities
 
 ### Upcoming
@@ -23,9 +25,3 @@ Date: November 14, 2024<br />
 ![](images/cncf-CKA.png)
 ![](images/cncf-CGOA.png)
 
-### 🌍 CNCF Contributor Card
-<p align="center">
-  <a href="https://contribcard.cncf.io/parisnakitakejser">
-    <img src="https://contribcard.cncf.io/api/card/parisnakitakejser/image" alt="CNCF Contributor Card" />
-  </a>
-</p>
