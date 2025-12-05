@@ -11,6 +11,10 @@
 
 ### Past
 
+**[Speaker: The Cloud Is Lying To You: What It Really Takes To Run On-Prem](https://community.cncf.io/events/details/cncf-cloud-native-aalborg-presents-talk-1-gitops-became-gitups-o0o-talk-2-the-cloud-is-lying-to-you-what-it-really-takes-to-run-on-prem/)**<br />
+_Cloud Native Aalborg, Denmark_<br />
+Date: December 5, 2025<br />
+
 **[Speaker: The Cloud Is Lying To You: What It Really Takes To Run On-Prem](https://sched.co/27FXa)**<br />
 _KubeCon + CloudNativeCon North America 2025, Atlanta, Georgia_<br />
 Date: November 11, 2025<br />
