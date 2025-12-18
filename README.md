@@ -32,6 +32,7 @@ Date: November 14, 2024<br />
 ## Certification Activities
 
 ![](images/cncf-KCNA.png)
+<img src="images/cncf-KCSA.png" height="100" />
 ![](images/cncf-CKAD.png)
 ![](images/cncf-CKA.png)
 ![](images/cncf-CGOA.png)
