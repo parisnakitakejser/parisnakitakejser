@@ -6,8 +6,14 @@
 
 ### Upcoming
 
-**None upcoming…**  
+[//]: <> (**None upcoming…**)
+
+
 *Contact me if you need a speaker!* 🙂
+
+**[⚡Lightning Talk: Flux-Powered Bootstrapping a Kubernetes With GitOps and CaC](https://sched.co/2DY3s)**<br />
+_KubeCon + CloudNativeCon Europe 2026, Amsterdam, The Netherlands_<br />
+Date: Marts 23, 2026<br />
 
 ### Past
 
