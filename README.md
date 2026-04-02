@@ -2,6 +2,8 @@
 
 [![CNCF Contributor Card](https://img.shields.io/badge/CNCF%20Contributor%20Card-Paris%20Nakita%20Kejser-blue?logo=linuxfoundation&style=for-the-badge)](https://contribcard.cncf.io/parisnakitakejser)
 
+If you’re looking for a speaker or need real-world technical insights for your next article, feel free to reach out — I’m always up for sharing knowledge and making complex tech a bit more understandable (and maybe even fun).
+
 ## Speaking Activities
 
 ### Upcoming
@@ -9,8 +11,6 @@
 [//]: <> (**None upcoming…**)
 
 **None upcoming…**
-
-*Contact me if you need a speaker!* 🙂
 
 ### Past
 
@@ -39,8 +39,13 @@ _CloudNativeCon+KubeCon, North America 2024, Salt Lake City, Utah_<br />
 Date: November 14, 2024<br />
 [📺 Recording](https://www.youtube.com/watch?v=yqobcMJ_1as)
 
-## Certification Activities
+## Featured In
 
+[A KubeCon Speaker's Guide to Building Resilient Stacks in the Age of AI-Driven Stack Bloat](https://www.aidatapress.com/news/paris-kejser-gitops-maturity-complexity-terma-group)<br />
+Date: Marts, 2026<br />
+Publisher: AI Data Press News
+
+## Certification Activities
 
 <img src="images/cncf-kubestronaut.png" height="100" /> <img src="images/cncf-PCA.png" height="100" /> <img src="images/cncf-CGOA.png" height="100" /> 
 
