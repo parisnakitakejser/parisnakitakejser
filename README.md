@@ -18,6 +18,7 @@ If you’re looking for a speaker or need real-world technical insights for your
 
 **[⚡Lightning Talk: Flux-Powered Bootstrapping a Kubernetes With GitOps and CaC](https://sched.co/2DY3s)**<br />
 _KubeCon + CloudNativeCon Europe 2026, Amsterdam, The Netherlands_<br />
+_CNCF-hosted Co-located Events: FluxCon_<br />
 Date: Marts 23, 2026<br />
 [📺 Recording](https://www.youtube.com/watch?v=Pcu7bWCqhe4&list=PLj6h78yzYM2MeuSNqpcDl-qdMeCe6vp6p&index=8)
 
