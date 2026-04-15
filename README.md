@@ -50,5 +50,5 @@ Publisher: AI Data Press News
 
 ## Certification Activities
 
-<img src="images/cncf-kubestronaut.png" height="100" /> <img src="images/cncf-PCA.png" height="100" /> <img src="images/cncf-CGOA.png" height="100" /> 
+<img src="images/cncf-kubestronaut.png" height="100" /> <img src="images/cncf-CAPA.png" height="100" /> <img src="images/cncf-PCA.png" height="100" /> <img src="images/cncf-CGOA.png" height="100" /> 
 
