@@ -9,14 +9,15 @@ If you’re looking for a speaker or need real-world technical insights for your
 ### Upcoming
 
 [//]: <> (**None upcoming…**)
-
-**[⚡Lightning Talk: Flux-Powered Bootstrapping a Kubernetes With GitOps and CaC](https://community.cncf.io/events/details/cncf-cloud-native-aalborg-presents-flux-powered-bootstrapping-amp-kubecon-takeaways/)**<br />
-_Cloud Native Aalborg, Denmark_<br />
-Date: April 28, 2026
+**None upcoming…**
 
 ### Past
 
 #### 2026
+
+**[⚡Lightning Talk: Flux-Powered Bootstrapping a Kubernetes With GitOps and CaC](https://community.cncf.io/events/details/cncf-cloud-native-aalborg-presents-flux-powered-bootstrapping-amp-kubecon-takeaways/)**<br />
+_Cloud Native Aalborg, Denmark_<br />
+Date: April 28, 2026
 
 **[⚡Lightning Talk: Flux-Powered Bootstrapping a Kubernetes With GitOps and CaC](https://sched.co/2DY3s)**<br />
 _KubeCon + CloudNativeCon Europe 2026, Amsterdam, The Netherlands_<br />
