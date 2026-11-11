@@ -8,8 +8,8 @@ If you’re looking for a speaker or need real-world technical insights for your
 
 <a href="https://astrona.io/u/paris-nakita-kejser">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://astrona.io/u/paris-nakita-kejser/card.svg?theme=dark">
-    <img alt="Paris on Astrona" src="https://astrona.io/u/paris-nakita-kejser/card.svg?theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://astrona.io/u/paris-nakita-kejser/card.svg?theme=dark&size=wide">
+    <img alt="Paris on Astrona" src="https://astrona.io/u/paris-nakita-kejser/card.svg?theme=light&size=wide">
   </picture>
 </a>
 
