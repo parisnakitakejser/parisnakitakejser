@@ -4,6 +4,15 @@
 
 If you’re looking for a speaker or need real-world technical insights for your next article, feel free to reach out — I’m always up for sharing knowledge and making complex tech a bit more understandable (and maybe even fun).
 
+## Traning
+
+<a href="https://astrona.io/u/paris-nakita-kejser">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://astrona.io/u/paris-nakita-kejser/card.svg?theme=dark">
+    <img alt="Paris on Astrona" src="https://astrona.io/u/paris-nakita-kejser/card.svg?theme=light">
+  </picture>
+</a>
+
 ## Speaking Activities
 
 ### Upcoming
