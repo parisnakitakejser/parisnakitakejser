@@ -60,5 +60,8 @@ Publisher: AI Data Press News
 
 ## Certification Activities
 
-<img src="images/cncf-kubestronaut.png" height="100" /> <img src="images/cncf-ICA.avif" height="100" /> <img src="images/cncf-KCA.svg" height="100" /> <img src="images/cncf-LFCS.avif" height="100" /> <img src="images/cncf-CNPA.png" height="100" /> <img src="images/cncf-CBA.png" height="100" /> <img src="images/cncf-CCA.svg" height="100" /> <img src="images/cncf-OTCA.png" height="100" /> <img src="images/cncf-CAPA.png" height="100" /> <img src="images/cncf-PCA.png" height="100" /> <img src="images/cncf-CGOA.png" height="100" /> 
+<img src="images/cncf-kubestronaut.png" height="100" /> <img src="images/cncf-CNPE.png" height="100" /> <img src="images/cncf-ICA.avif" height="100" /> <img src="images/cncf-KCA.svg" height="100" /> <img src="images/cncf-LFCS.avif" height="100" /> <img src="images/cncf-CNPA.png" height="100" /> <img src="images/cncf-CBA.png" height="100" /> <img src="images/cncf-CCA.svg" height="100" /> <img src="images/cncf-OTCA.png" height="100" /> <img src="images/cncf-CAPA.png" height="100" /> <img src="images/cncf-PCA.png" height="100" /> <img src="images/cncf-CGOA.png" height="100" />
 
+### Expired Certifications
+
+<img src="https://images.weserv.nl/?url=raw.githubusercontent.com/parisnakitakejser/parisnakitakejser/main/images/aws-CLF-C01.png&filt=greyscale" height="100" alt="aws-CLF-C01 (expired)" title="Expired" /> <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/parisnakitakejser/parisnakitakejser/main/images/aws-SAA-C02.png&filt=greyscale" height="100" alt="aws-SAA-C02 (expired)" title="Expired" /> <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/parisnakitakejser/parisnakitakejser/main/images/aws-DVA-C01.png&filt=greyscale" height="100" alt="aws-DVA-C01 (expired)" title="Expired" />
