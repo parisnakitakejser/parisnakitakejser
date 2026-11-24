@@ -60,7 +60,7 @@ Publisher: AI Data Press News
 
 ## Certification Activities
 
-<img src="images/cncf-kubestronaut.png" height="100" /> <img src="images/cncf-CNPE.png" height="100" /> <img src="images/cncf-ICA.avif" height="100" /> <img src="images/cncf-KCA.svg" height="100" /> <img src="images/cncf-LFCS.avif" height="100" /> <img src="images/cncf-CNPA.png" height="100" /> <img src="images/cncf-CBA.png" height="100" /> <img src="images/cncf-CCA.svg" height="100" /> <img src="images/cncf-OTCA.png" height="100" /> <img src="images/cncf-CAPA.png" height="100" /> <img src="images/cncf-PCA.png" height="100" /> <img src="images/cncf-CGOA.png" height="100" />
+<img src="images/cncf-golden-kubestronaut.png" height="100" /> <img src="images/cncf-kubestronaut.png" height="100" /> <img src="images/cncf-CNPE.png" height="100" /> <img src="images/cncf-ICA.avif" height="100" /> <img src="images/cncf-KCA.svg" height="100" /> <img src="images/cncf-LFCS.avif" height="100" /> <img src="images/cncf-CNPA.png" height="100" /> <img src="images/cncf-CBA.png" height="100" /> <img src="images/cncf-CCA.svg" height="100" /> <img src="images/cncf-OTCA.png" height="100" /> <img src="images/cncf-CAPA.png" height="100" /> <img src="images/cncf-PCA.png" height="100" /> <img src="images/cncf-CGOA.png" height="100" />
 
 ### Expired Certifications
 
